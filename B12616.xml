@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kynge our soueraygne lorde by his synguler wysdome hath prouydently consydred and amonges other pryncely vertues profoundely reme[m]bred two thynges specyally moost behouefull and neccesarye ...</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12616</idno><idno type="EEBO-CITATION">99892552</idno>
+  <idno type="VID">188935</idno>
+  <idno type="EEBO-PROQUEST">2264197805</idno>
+  
+            <idno type="STC">STC 7769.4</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[197]</idno>
+            <idno type="PROQUEST">ocm99892552</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892552e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188935)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kynge our soueraygne lorde by his synguler wysdome hath prouydently consydred and amonges other pryncely vertues profoundely reme[m]bred two thynges specyally moost behouefull and neccesarye ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1522]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>With Royal arms at head; initial.</note>
+                  <note>Publisher and date of publication from STC (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justice, Administration of --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Henry VIII, 1509-1547 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1509-1547 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188935:1"/>
+            <pb facs="tcp:188935:1"/>
+            <p>
+               <figure>
+                  <figDesc>Royal blazon or coat of arms, supported by two angels.</figDesc>
+               </figure>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>He kynge our soueraygne lorde by his synguler wysdome hath prouydently consydred and amonges other pryncely vertues profoundely remēbred two thynges specyally moost behouefull and ne<g ref="char:EOLhyphen"/>cessarye to be regarded by noble and vertuous prynces aswell for the suerty conseruacyon and mayntenaunce of theyr estates royall as also for the polytyque gouernaunce of theyr realmes / domynyons / and subgiettes / that is to say Iustyce and puysaunce. The one moost expedyent to all subgiettes in tyme of peace / and thodre moost necessarye in tyme of werre. And forasmoche as Iustyce without power can not haue dew course and strength without Iustyce is rather a vyce than a vertue. Therfore his hyghnes amōges all other his worldly busynesse / pryncypally studyeth for to plant and ioyne these two vertues togydre throughout his realme / that the fruts of theym which is peax / tranquylyte / welthe / and prosperyte may sprede ouer all to the pleasure of god his hyghe honour and conforte with reioysynge of all his subgiettes. And albe it his grace from the begynnynge of his reygne hytherto syngulerly myndynge and tendrynge thaduaūcement of Iustyce hath from tyme to tyme specyally charged and cōmaunded all and synguler his pryncypall offycers Iudges &amp; counsayloures to endeuour them selfe with all effecte for thaccoplysshement of this his laudable <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as to all the kynges subgiettes it is <gap reason="illegible" resp="#oxf" extent="2 letters">
+                  <desc>••</desc>
+               </gap>toryously knowen they haue so done accordyngly yet his hyghnes heringe and perfytely vnderstandynge that though his <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> founded vpon good Iustyce yet aswell by mayntenaunce corrupte mynystres and vnfaythfull executoures of y<seg rend="sup">•</seg> same / as also by sayntuares mysused the ryghtuous ordre of good Iustyce is in suche wyse day<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>hyndred and abused that it may not procede accordynge to the dew course of the kynges sayde lawes. And ouer this his grace <gap reason="illegible" resp="#oxf" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ge his seruauntes and subg<gap reason="illegible" resp="#oxf" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> vpon whom dependeth his strength / and puysaunce by vnlaufull retaygnoures contrary to his lawes to be withdrawen f<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m his hyghnes therfore berynge tendre zele to the restfulnesse of his realme and thaduaunce<g ref="char:EOLhyphen"/>ment of the cōmen weall therof and myndyngeto establysshe Iustyce and puysaunce in dew ordre within the same hath not refu<g ref="char:EOLhyphen"/>sed ne forborne to take payne and trauayle in his owne persone / and to be present with his counsayle in the Sterre chambre for re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="2 letters">
+                  <desc>••</desc>
+               </gap>macyon of the aboue rehersed abuses and dysordres by meane wherof not onely dyuerse and many dyrectyons be taken and <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lysshed by his grace <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> counsayle for egall mynystracyon of Iustyce and puttynge a parte abuses of his lawes and for refor <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heryffes <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> shyre but also for ordery<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of fraūcheses and sayntua<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes and extynctynge vnlaufull retaygnour<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> viewyng<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his people to redu<gap reason="illegible" resp="#oxf" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ablysshe his strength <gap reason="illegible" resp="#oxf" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d puysaunce ho<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly and e<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yerly to hymselfe lyke <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ructyous &amp; oothes made and gyuen to the shyryffes and Iustyces for theyr reformacyon. And cōmyssyoners auctorysed <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the sayd viewes in euery shyre / it more euydently apperyth wherfore the kynge our souerayne lorde / straytely chargeth all <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ynguler his Iustyces of assyses &amp; of peax as also all shyryffes / vndershyryffes / excheatoures / baylyffes / crowners / &amp; all other offycers and mynysters of his lawes that they and euery of theym conforme theym selfe to the sayd dyrectyons for thaduauncemēt of egall Iustyce without percyalyte / fauour / corrupcyon / drede / or affectyon. Wyllynge therfore all &amp; synguler his subgiettes pre<g ref="char:EOLhyphen"/>tendynge them selfe greued or Iniuryed by ony maner of person of what so euer degre or cōdycyon they be boldely &amp; without feare or drede to repayre to his offycers Iustyces and other mynysters of his lawes for redresse of theyr sayd wronges and Iniuryes all fauour drede or corrupcyon set a parte. Cōmaundynge also all and synguler his subgiettes of what so euer state degre or cōdycyon they be of to forbere from hensforthe to retaygne ony his seruauntes or subgiettes cōtrary to his lawes. And that none of his sayd seruauntes or subgiettes be vnlaufully retaygned by or with ony other person / cōtrary to his sayd lawes / but y<seg rend="sup">t</seg> his sayd seruaūtes hooly and entyerly kepe &amp; behaue theymselfe as true seruaūtes to his hyghnes onely without leauynge to ony other / not sparynge so to do for ony drede or feare of ony man what so euer he be / for so it is the kynges pleasure and in theyr laufull demeanoures the kynges hyghnes wyllse theym borne accordyngly / sygnyfyenge vnto all suche and euery of them as haue or be retaygned y<seg rend="sup">t</seg> all be it the kynges hyghnes of his grete fauour and mercy and vpon hope of amendement / can be agreable to pardon all suche as haue retaygned / or be retaygned contrary to his lawes / for tymes passed. yet his grace expressely declareth that agaynst lyke offēdours herafter / he shall cause his lawes &amp; statutes to be executed without fauoure or remyssyon to y<seg rend="sup">•</seg> ferfull example of all other. Wyllynge ouer this and straytly cōmaundynge all and synguler his seruaūtes and subgiettes in euery shyre / to be aydynge helpynge and as<g ref="char:EOLhyphen"/>systynge vnto all his Iustyces mynysters and subgiettes for the fortheraunce of Iustyce in euery befalfe. And lyke as the kynges grace myndeth to haue his seruauntes hooly to hym selfe / and that no maner his subgiettes by vnlaufull berynge mayntenaunce or otherwyse shall medyll with theym. So it is the kynges pleasure y<seg rend="sup">t</seg> his sayd seruaūtes in suche dyscrete ordre &amp; Iuste dealynge shall ordre theymselfe in euery shyre towardes his subgiettes without oppressyon vnlaufull mayntenaunce or Imbracery y<seg rend="sup">t</seg> theyr good demeanoures may be a laudable presydent and vertuous example to all other. Doynge theym to wyt that all be it the kyng{is} grace is determyned straytly to punysshe all trāsgressours &amp; offēdours of his lawes yet specyally his grace myndeth moresharply to loke vpon his owne seruauntes forasmoche as his grace hath chosen theym to gyue example of good gouernaunce to all other.</p>
+            <trailer>¶ God saue the kynge.</trailer>
+            <pb facs="tcp:188935:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
